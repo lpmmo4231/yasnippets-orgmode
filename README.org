@@ -1,0 +1,14 @@
+#+TITLE: yasnippets
+#+AUTHOR: Matt Curtis
+
+1. Install yasnippet-bundle package with =M-x package-install
+   yasnippet-bundle=
+
+2. Clone this repo
+
+3. Point yas/root-directory to the repo
+
+#+BEGIN_SRC emacs-lisp
+  (setq yas/root-directory "~/shed/elisp/yasnippets")
+#+END_SRC
+
