@@ -1,4 +1,5 @@
 #name : Text
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+#key: text
 # --
-#+TEXT: ${1:text}
+#+text: ${1:text}

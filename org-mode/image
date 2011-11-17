@@ -1,4 +1,5 @@
 #name : image
+#key: image
 # --
 #+caption: $1
 `(org-insert-link '(4))`

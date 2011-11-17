@@ -1,4 +1,5 @@
 #name : DESCRIPTION
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+#key: desc
 # --
 #+DESCRIPTION: ${0}

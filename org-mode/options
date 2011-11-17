@@ -1,5 +1,6 @@
 #name : OPTIONS
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+#key: options
 # --
-#+OPTIONS: ${0}
+#+options: ${0}
 

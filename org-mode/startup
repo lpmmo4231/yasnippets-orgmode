@@ -1,4 +1,5 @@
 #name : Startup
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+#key: startup
 # --
-#+STARTUP: ${1:options}
+#+startup: ${1:options}

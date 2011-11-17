@@ -1,4 +1,5 @@
 #name : LANGUAGE
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+#key: lang
 # --
-#+LANGUAGE: ${1:en}
+#+language: ${1:en}

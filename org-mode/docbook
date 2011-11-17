@@ -1,5 +1,6 @@
 #name : DOCBOOK
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+#key: docbook
 # --
 #+BEGIN_DOCBOOK
 ${0}

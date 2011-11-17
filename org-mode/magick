@@ -1,5 +1,6 @@
 #name : magick
 #contributor : Rafael Villarroel <rvf0068@gmail.com>
+#key: magick
 # --
 #+headers: :imagemagick yes :iminoptions -density 300 -resize 400
 #+headers: :headers '("\\\\usepackage{tikz,tkz-berge}") :border 1em 
