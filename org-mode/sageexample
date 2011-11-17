@@ -1,0 +1,17 @@
+#name : sageexample
+# expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
+# --
+*** 
+**** $1                                                             :B_block:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :BEAMER_envargs: <1->
+     :END:
+$0
+
+**** Resultado                                                      :B_block:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :BEAMER_envargs: <2->
+     :END:
+

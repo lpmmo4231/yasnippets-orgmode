@@ -1,0 +1,5 @@
+#name : image
+# --
+#+caption: $1
+`(org-insert-link '(4))`
+$0
