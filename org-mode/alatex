@@ -1,0 +1,4 @@
+#name : attr latex
+#key: alatex
+# --
+#+attr_latex: ${1:alatex}
