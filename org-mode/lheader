@@ -1,4 +1,4 @@
 #name : LaTeX header
 #key: lheader
 # --
-#+latex_header: ${1:lheader}
+#+latex_header: ${1:\usepackage{$2}}
