@@ -1,6 +1,7 @@
 # name: equations in org-mode
 # key: eqn
 # binding: C-c y e
+# condition: (or (= (current-column) 3) (= (current-column) 0))
 # contributor: Rafael Villarroel (rvf0068@gmail.com)
 # --
 # <<$1>>

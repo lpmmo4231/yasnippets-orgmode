@@ -1,10 +1,11 @@
-# name: theorems and such in org-mode
+# name: theorem
 # key: thm
 # binding: C-c y t
+# condition: (or (= (current-column) 3) (= (current-column) 0))
 # contributor: Rafael Villarroel (rvf0068@gmail.com)
 # --
-# <<$2>>
-#+begin_${1:$$(yas/choose-value'("theorem" "definition" "proof" "lemma" "corollary"))}
-#+latex: \label{${2:"waiting for reftex-label call..."$(unless yas/modified-p (reftex-label nil 'dont-insert))}}%
+# <<$1>>
+#+begin_theorem
+#+latex: \label{${1:"waiting"$(unless yas/modified-p (reftex-label "theorem" 'dont-insert))}}%
 $0
-#+end_$1
+#+end_theorem
