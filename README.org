@@ -1,6 +1,6 @@
 #+TITLE: yasnippets
 
-Snippets for org-mode. See https://github.com/capitaomorte/yasnippet.
+Snippets for org-mode. See [[https://github.com/capitaomorte/yasnippet][Yasnippet in Github]].
 
 They have bindings ~C-c y~ plus an extra letter.
 
