@@ -1,0 +1,9 @@
+# name: equations in org-mode
+# key: eqn
+# contributor: Rafael Villarroel (rvf0068@gmail.com)
+# --
+# <<$1>>
+\begin{equation}
+\label{$1}
+$0
+\end{equation}
