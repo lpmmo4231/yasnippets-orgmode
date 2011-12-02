@@ -1,9 +1,10 @@
 # name: theorems and such in org-mode
 # key: thm
+# binding: C-c y t
 # contributor: Rafael Villarroel (rvf0068@gmail.com)
 # --
 # <<$2>>
-#+begin_$1
-#+latex: \label{$2}
+#+begin_${1:$$(yas/choose-value'("theorem" "definition" "proof" "lemma" "corollary"))}
+#+latex: \label{${2:"waiting for reftex-label call..."$(unless yas/modified-p (reftex-label nil 'dont-insert))}}%
 $0
 #+end_$1
