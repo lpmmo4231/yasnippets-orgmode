@@ -1,0 +1,9 @@
+# name: theorems and such in org-mode
+# key: thm
+# contributor: Rafael Villarroel (rvf0068@gmail.com)
+# --
+# <<$2>>
+#+begin_$1
+#+latex: \label{$2}
+$0
+#+end_$1
