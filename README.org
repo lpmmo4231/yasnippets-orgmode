@@ -2,3 +2,14 @@
 
 Snippets for org-mode. See https://github.com/capitaomorte/yasnippet.
 
+They have bindings ~C-c y~ plus an extra letter.
+
+| name        | key | letter |
+|-------------+-----+--------|
+| corollary   | cor | c      |
+| definition  | def | d      |
+| equation    | eqn | e      |
+| lemma       | lem | l      |
+| proof       | prf | f      |
+| proposition | pro | p      |
+| theorem     | thm | t      |
