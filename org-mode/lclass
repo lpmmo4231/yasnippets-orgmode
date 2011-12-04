@@ -1,4 +1,0 @@
-#name : LaTeX class
-#key: lclass
-# --
-#+latex_class: ${1:lclass}

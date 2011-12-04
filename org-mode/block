@@ -1,7 +1,8 @@
 # name : #+begin_...#+end_
 # expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
-# condition: (= (current-column) 5)
+# condition: (or (= (current-column) 5) (= (current-column) 0))
 # key: block
+# binding: C-c y b
 # --
 #+begin_$1 $2
   $0

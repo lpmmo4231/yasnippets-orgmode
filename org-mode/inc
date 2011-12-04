@@ -1,6 +1,0 @@
-#name : Author
-#key: inc
-#contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
-# --
-#+include: "${1:file}" ${2:src-example-quote} ${3:mode}
-

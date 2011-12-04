@@ -1,4 +1,0 @@
-#name : attr_latex
-#key: alatex
-# --
-#+attr_latex: ${1:width=$2\textwidth}
