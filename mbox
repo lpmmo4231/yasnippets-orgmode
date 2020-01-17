@@ -1,0 +1,4 @@
+# key: mbox
+# name: mbox
+# --
+@@latex:\mbox{$$1$}@@$0

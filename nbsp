@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: None breaking Space
+# key: ~n
+# --
+\nbsp{}`(progn (backward-word 1) (backward-char 1) (backward-delete-char 1))`$0
